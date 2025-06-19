@@ -1,2 +1,2 @@
 # BERKE0S-LINUX
-Benim tarafımdan hazırlanmış bir Linux işletim sistemi.
+BERKE0S Linux benim tarafımdan hazırlanmış bir Linux işletim sistemi projesidir. Bu projenin genel amacı kendime özel bir işletim sistemi hazırlamak olup bunu gibi projelere girişmek isteyenlere olabildiğince yardımcı olmaktır. kurulum için basitçe TinyCore Linux'un yaklaşık 20mb'lık en temel hali kullanılmıştır. Arka planı Python ile çalışan proje ön arayüz olarak web dillerini kullanmaktadır. Proje geliştirme aşamasında olup şuan net bir sürümü bulunmamaktadır.
